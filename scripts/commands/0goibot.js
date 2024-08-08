@@ -34,22 +34,22 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "🥵") || (event.body.toLowerCase() == "🥵🥵🥵")) {
-     return api.sendMessage("এই গুলা কেন দেও বুঝিনা, সব 😌SK Shakil(TOM)🥵Uffff আস্তে 🥵,আর তুমি নাহ বুঝলে আমার 😌SK Shakil(TOM) বস কে ডাক দেও🙈🙈 ??🤔 ", threadID);
+     return api.sendMessage(" লুচ্চামি করলে আমার বস 😌SK Shakil(TOM) কে ডাক দেও🙈🙈 ??🤔 ", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Mahabur bot") ||(event.body.toLowerCase() == "TOM বট") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||   (event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||  (event.body.toLowerCase() == "SK SHAKIL(TOM):n বট")) {
-     return api.sendMessage("আমার সাথে কেউ ওই গুলা করে নাহ, 😹 মানে প্রেম তুমি যেটা ভাবছো ওই টাও 😹😹", threadID);
+   if ((event.body.toLowerCase() == "Bot Magi") ||(event.body.toLowerCase() == "TOM বট") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||(event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||   (event.body.toLowerCase() == "SK SHAKIL(TOM) bot") ||  (event.body.toLowerCase() == "SK SHAKIL(TOM):n বট")) {
+     return api.sendMessage("Tui Magi😾😾, 😹 মানে প্রেম তুমি যেটা ভাবছো ওই টাও 😹😹", threadID);
    };
 
-   if ((event.body.toLowerCase() == "gd morning") || (event.body.toLowerCase() == "good morning")) {
-     return api.sendMessage("Good morning 🤗🥀", threadID);
+   if ((event.body.toLowerCase() == "Bot Cudi") || (event.body.toLowerCase() == "Cudi")) {
+     return api.sendMessage("Cud Fak Kore Aci😧🥵", threadID);
    };
 
    if ((event.body.toLowerCase() == "kmn aso") || (event.body.toLowerCase() == "Kamon aso")) {
      return api.sendMessage("𝘼𝙡𝙝𝙖𝙢𝙙𝙪𝙡𝙡𝙞𝙖𝙝 𝙫𝙡𝙤__𝙩𝙢𝙞? ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "😌SK Shakil(TOM)") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "TOM")) {
+   if ((event.body.toLowerCase() == "😌SK Shakil(TOM)") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "TOM") || (event.body.toLowerCase() == "shakil") || (event.body.toLowerCase() == "TOM")) {
      return api.sendMessage( "আসসালামুয়ালাইকুম আমি 😌SK Shakil(TOM) এর Bot বলতে আছি? 😌SK Shakil(TOM) BOSS বিজি আছে? যা বলার আমাকে বলেন,🥰? (আবে ওই সয়তান তুই কি ওজু করছো 😌SK Shakil(TOM) বসের নাম লও? 😘",threadID);
 
    };
@@ -67,7 +67,7 @@ if ((event.body.toLowerCase() == "Call a aso shobai") || (event.body.toLowerCase
    };
 
    if ((event.body.toLowerCase() == "bot কে বানাইছে") || (event.body.toLowerCase() == "tumke banaise ke?")) {
-     return api.sendMessage("boss 😌SK Shakil(TOM) is My Creator🥰. He loves me & Edit Me Daily. He is a good boy 😊 fb link,👉https://www.facebook.com/profile.php?id=100077458062491", threadID);
+     return api.sendMessage("boss 😌SK Shakil(TOM) is My Creator🥰. He loves me & Edit Me Daily. He is a good boy 😊 fb link,👉https://www.facebook.com/profile.php?id=100077458", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "botka admin kon ha")) {
