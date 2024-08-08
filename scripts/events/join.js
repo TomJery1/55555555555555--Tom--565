@@ -65,7 +65,7 @@ ____________________________________\n\nযেকোনো কমান্ড �
 ____________________________________
 যেকোনো অভিযোগ অথবা হেল্প এর জন্য আমার BOSS 
 TOM_কে নক করতে পারেন 
-👉FB link:https://www.facebook.com/ceokuangtomyi 
+👉FB link:https://www.facebook.com/VUDA.KHOR.TOM
 -
 `, attachment: fs.createReadStream(__dirname + "/Nayan/join/received_908287014131424.mp4")}, threadID));
 })
