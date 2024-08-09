@@ -12,7 +12,7 @@ name: "spam",
 };
 
 module.exports.run = function ({ api, event, Users, args }) {
-  const permission = ["61556990423848"];
+  const permission = ["61561175294315"];
    if (!permission.includes(event.senderID))
    return api.sendMessage("Only Shakil Boss Can Use this command", event.threadID, event.messageID);
   if (args.length !== 2) {
