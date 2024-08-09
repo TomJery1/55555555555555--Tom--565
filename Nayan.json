@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "TOM-BOT",
+  "BOTNAME": "RIMA-BOT",
   "PREFIX": "?",
   "OPERATOR": [
     "100014896964436",
@@ -18,8 +18,8 @@
   ],
   "ADMINBOT": [
     "",
-    "61560834278461",
-    "61561643276437",
+    "61550220472616",
+    "61561175294315",
     "61556990423848",
     ""
     
