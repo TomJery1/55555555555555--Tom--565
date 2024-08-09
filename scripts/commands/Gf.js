@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	let react = event.body.toLowerCase();
 	if(react.includes("bosgf") || react.includes("bosbou") || react.includes("bossgf")) {
 		var msg = {
-				body:(রিমা SK SHAKIL(TOM)বসের বউ🥵😐😌 "https://drive.google.com/file/d/11BotDc16Qs1f_OvuEM-qyJa8Rkoa_LT2/view?usp=drivesdk"
+				body:"https://drive.google.com/file/d/11BotDc16Qs1f_OvuEM-qyJa8Rkoa_LT2/view?usp=drivesdk"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("", event.messageID, (err) => {}, true)
