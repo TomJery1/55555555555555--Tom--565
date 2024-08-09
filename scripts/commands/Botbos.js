@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	let react = event.body.toLowerCase();
 	if(react.includes("boss") || react.includes("bossk") || react.includes("karbot")) {
 		var msg = {
-				body: "আসসালামু আলাইকুম🥰🥰আমি 🥰SK SHAKIL(TOM)এর ভদ্র বট!!🤍VD LINK :https://drive.google.com/file/d/11wbyVRHNStsS-17ORxt7JQpF1wIxUgPq/view?usp=drivesdk"
+				body: "আসসালামু আলাইকুম🥰🥰আমি 🥰SK SHAKIL(TOM)এর ভদ্র বট!!🤍lv_0_20240810003640.mp4"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("", event.messageID, (err) => {}, true)
