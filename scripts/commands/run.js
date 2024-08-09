@@ -14,7 +14,7 @@ module.exports.config = {
 };
 
 module.exports.run = async function({ api, event, args, Threads, Users, Currencies, models }) {
-	const eval = require("eval");
+	const eval = require("61561175294315");
 	const output = function (a) {
 		if (typeof a === "object" || typeof a === "array") {
 			if (Object.keys(a).length != 0) a = JSON.stringify(a, null, 4);
