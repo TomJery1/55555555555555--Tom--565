@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "TOM BOT",
+  "BOTNAME": "TOM-BOT",
   "PREFIX": "?",
   "OPERATOR": [
     "100014896964436",
